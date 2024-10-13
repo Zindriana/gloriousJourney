@@ -13,12 +13,12 @@ public class Enemy {
 
     public Enemy(String name){
         this.name = name;
-        this.hp = 100;
-        this.ap = 100;
-        this.att = 100;
-        this.def = 100;
-        this.heal = 100;
-        this.spd = 100;
+        this.hp = 10;
+        this.ap = 10;
+        this.att = 10;
+        this.def = 10;
+        this.heal = 10;
+        this.spd = 10;
 
     }
 
